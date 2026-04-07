@@ -25,4 +25,4 @@ on:
                     # 6. run tests usinh pytest
                     -name: test with pytest
                         run: |
-                            pytest test_app.py
+                            pytest test_app.py 
